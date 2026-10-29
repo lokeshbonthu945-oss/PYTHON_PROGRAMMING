@@ -111,8 +111,3 @@ Rank  Name       Aggregate  Attendance  Income
 Chitra: Subject marks below 60% or invalid count
 ```
 
-## 7. Result
-
-The University Scholarship Allocation System was implemented successfully using Python. It checks student eligibility, identifies students who fail the criteria, ranks eligible students based on aggregate marks, and resolves ties using attendance, annual family income, and alphabetical order.
-
-Note: In this example, Ravi ranks above Anu because both have the same aggregate marks and attendance, but Ravi has a lower annual family income.
