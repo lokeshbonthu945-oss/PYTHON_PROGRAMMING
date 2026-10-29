@@ -41,7 +41,7 @@ These are sample rules for the program and can be changed according to universit
 
 ## 3. Flowchart 
 
-``` Mermaid
+```Mermaid
 flowchart TD
     A([Start]) --> B[/Enter number of students/]
     B --> C[Set eligibility criteria]
