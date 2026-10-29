@@ -1,5 +1,4 @@
 
-# University Scholarship Allocation System
 
 students = []
 eligible_students = []
