@@ -40,6 +40,7 @@ These are sample rules for the program and can be changed according to universit
 10. Stop the program.
 
 ## 3. Flowchart 
+
 ```Mermaid
 flowchart TD
     A([Start]) --> B[/Enter number of students/]
@@ -61,7 +62,6 @@ flowchart TD
     K --> L[Assign ranks]
     L --> M[/Display eligible ranking and rejection reasons/]
     M --> N([Stop])
-
 ```
 
 ## 5. Sample Input
